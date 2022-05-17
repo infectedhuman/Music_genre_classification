@@ -5,8 +5,6 @@
 
 # MusicGenreClassification
 
-Academic research in the field of **Deep Learning (Deep Neural Networks) and Sound Processing**, Tel Aviv University.
-
 Featured in [Medium](https://medium.com/@matanlachmish/music-genre-classification-470aaac9833d).
 
 ## Abstract
