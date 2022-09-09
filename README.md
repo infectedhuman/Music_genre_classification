@@ -158,10 +158,7 @@ http://www.tagtraum.com/msd_genre_datasets.html
 [10] http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html [11] Helge Homburg, Ingo Mierswa, Bu l̈ent Mo l̈ler, Katharina Morik and Michael
 Wurst, A BENCHMARK DATASET FOR AUDIO CLASSIFICATION AND CLUSTERING, University of Dortmund, AI Unit. http://sfb876.tu-dortmund.de/PublicPublicationFiles/ homburg_etal_2005a.pdf
 
-## Author
 
-Matan Lachmish <sub>a.k.a</sub> <b>The Big Fat Ninja</b> <img src="assets/TheBigFatNinja.png?raw=true" alt="The Big Fat Ninja" width="13"><br>
-https://thebigfatninja.xyz
 
 ### attribution
 
